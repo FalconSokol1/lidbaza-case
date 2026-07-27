@@ -33,6 +33,10 @@
 
 ## Интерфейс
 
+### Вход
+
+<img src="screenshots/00-auth.png" alt="Экран входа в Лидбазу через Telegram" width="100%">
+
 ### Панель и запуск сбора
 
 <img src="screenshots/01-panel.png" alt="Панель Лидбазы — таблица лидов и запуск сбора" width="100%">
